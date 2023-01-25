@@ -1,0 +1,5 @@
+print("Martes 10 de enero de 2023")
+print("En este momento estoy tranquilo y feliz")
+print("Este curso quiero aprobar todo")
+print("No inviertas en bitcoin porque aun estara bajando el precio")
+print("guapeton :-)")
